@@ -1,0 +1,13 @@
+{
+    "name": "maikegiodde/php-gfy-api-interface",
+    "description": "An interface for calling gfycat.com API via curl with php Edit",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "steoo",
+            "email": "esseiproject@gmail.com"
+        }
+    ],
+    "require": {}
+}
